@@ -1,0 +1,1 @@
+"Random_sample.py" zieht aus der "documents.parquet" eine Stichprobe (die Datei muss also noch lokal hinzugefügt werden), anschließend kann "Py_Annotator_v2.py" ausgeführt werden und hoffentlich funktionieren:)
